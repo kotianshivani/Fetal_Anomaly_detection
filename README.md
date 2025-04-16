@@ -103,4 +103,3 @@ This project is developed for educational and research purposes under the guidan
 ## 🔗 Live Demo or Repository
 
 🔗 [GitHub Repository](https://github.com/poojashekar987/FAD)  
-(*Update this with your correct repo URL if needed.*)
