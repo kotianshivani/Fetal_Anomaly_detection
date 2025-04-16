@@ -52,17 +52,6 @@ We used a publicly available **Cardiotocography (CTG)** dataset containing vital
 
 ---
 
-## 📷 UI Preview
-
-- Landing Page  
-- Patient Data Entry Page  
-- Doctor Dashboard  
-- Report View with Fetal Health Status  
-
-(*Include screenshots or links to GIFs/screenshots if available*)
-
----
-
 ## 👩‍⚕️ Use Cases
 
 - Medical diagnostics and prenatal decision support  
@@ -102,4 +91,4 @@ This project is developed for educational and research purposes under the guidan
 
 ## 🔗 Live Demo or Repository
 
-🔗 [GitHub Repository](https://github.com/poojashekar987/FAD)  
+🔗 [GitHub Repository](https://github.com/kotianshivani/Fetal_Anomaly_detection)  
